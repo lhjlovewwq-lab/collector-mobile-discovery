@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "org.collector.mobile",
+  "version_code": 13,
+  "version_name": "0.3.7",
+  "size": 243001,
+  "sha256": "0eb991fa3b1470a358a3b399aa3dea0b254bbd74acee1f437b46b1afc1be48b3",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.7/Collector-Android-0.3.7.apk",
+  "notes": "新增软件内关于与更新；通知显示作者、频道、正文和月日时间。",
+  "min_android_api": 26
+}
