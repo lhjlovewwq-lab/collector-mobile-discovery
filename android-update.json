@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 13,
-  "version_name": "0.3.7",
-  "size": 243001,
-  "sha256": "0eb991fa3b1470a358a3b399aa3dea0b254bbd74acee1f437b46b1afc1be48b3",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.7/Collector-Android-0.3.7.apk",
-  "notes": "新增软件内关于与更新；通知显示作者、频道、正文和月日时间。",
+  "version_code": 14,
+  "version_name": "0.3.8",
+  "size": 247097,
+  "sha256": "99887009a575c5a57e9b8f3de7ddb2304aceab9aa0674f73c2b709d2a9411dc1",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.8/Collector-Android-0.3.8.apk",
+  "notes": "通知时间仅显示原发布时间 HH:mm；同作者在同频道连续发送的有界内容合并为一张提醒，保留各条正文与原消息入口。编辑和重复接收更新原提醒。",
   "min_android_api": 26
 }
