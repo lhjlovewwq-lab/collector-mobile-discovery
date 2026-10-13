@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 18,
-  "version_name": "0.3.12",
-  "size": 296475,
-  "sha256": "024e7e5b484b10bca86950125c90bc8246f6538db240aa72b104d62db3c92b1c",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.12/Collector-Android-0.3.12.apk",
-  "notes": "频道阅读页还原原头像、昵称颜色及紧凑徽章；修正编辑时间混入正文、单独表情显示和旧消息资料补齐。保留原连接、通知规则及阅读位置。",
+  "version_code": 19,
+  "version_name": "0.3.13",
+  "size": 300571,
+  "sha256": "eb35bb7f4c06484c47ef1bcff5e254be61d3fb852232e519873067e027d0a477",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.13/Collector-Android-0.3.13.apk",
+  "notes": "修正手机刷新误调用电脑维护接口与权限错误后的读取状态；当前频道核对真实最新消息并支持断线补读；消息传输去重并压缩；头像和徽章共用后台缓存，不阻塞文字。保留原连接、资料、通知规则与阅读位置。",
   "min_android_api": 26
 }
