@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 20,
-  "version_name": "0.3.14",
-  "size": 312859,
-  "sha256": "908aae4539f2ec6fc44a8f1cc54946f96b90e7107a19cc4024abd42e6a3e7d3b",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.14/Collector-Android-0.3.14.apk",
-  "notes": "调整后台通知接收与诊断、实时增量到达与积压排空、手机页面响应和阅读取消；改进电脑手机通道早期恢复。保留原配对、规则、头像与阅读位置。",
+  "version_code": 21,
+  "version_name": "0.3.15",
+  "size": 329243,
+  "sha256": "94acbc33156fc0c95ec1d5c7c6471145c0f4fbc3f1d8faaaee479aedaeae3a65",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.15/Collector-Android-0.3.15.apk",
+  "notes": "调整手机提醒：历史记录继续补齐，过时消息不再逐条弹出；实时新提醒使用独立通道。改进点通知打开原消息、已有内容读取和失败重试，并修正更新下载后的安装状态判断。保留现有连接、规则和阅读位置。",
   "min_android_api": 26
 }
