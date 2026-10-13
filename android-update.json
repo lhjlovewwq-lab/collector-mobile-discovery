@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 17,
-  "version_name": "0.3.11",
+  "version_code": 18,
+  "version_name": "0.3.12",
   "size": 296475,
-  "sha256": "5f6178d290cf1ca5a31ea65517fbeb04ef5b22ac00315de5c27766343cb86ad8",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.11/Collector-Android-0.3.11.apk",
-  "notes": "频道聊天页完善真实头像缓存与重试、来源昵称颜色和徽章、回复引用及表情显示；去除重复提及和误导计数。\n修复消息图片预览与媒体就绪后的静默刷新，收起重复长链接；文章可在应用内读取电脑已保存的可用正文或摘要。\n通知规则支持搜索、勾选多个作者和频道，保留现有规则与接收游标；修正符合条件的新新闻事件分类。\n新增频道和分区隐藏、恢复管理，保留搜索、收藏、通知访问及阅读位置。\n无需应用商店，覆盖更新保留原配对和设置。",
+  "sha256": "024e7e5b484b10bca86950125c90bc8246f6538db240aa72b104d62db3c92b1c",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.12/Collector-Android-0.3.12.apk",
+  "notes": "频道阅读页还原原头像、昵称颜色及紧凑徽章；修正编辑时间混入正文、单独表情显示和旧消息资料补齐。保留原连接、通知规则及阅读位置。",
   "min_android_api": 26
 }
