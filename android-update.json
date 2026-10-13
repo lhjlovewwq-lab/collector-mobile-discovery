@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 21,
-  "version_name": "0.3.15",
-  "size": 329243,
-  "sha256": "94acbc33156fc0c95ec1d5c7c6471145c0f4fbc3f1d8faaaee479aedaeae3a65",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.15/Collector-Android-0.3.15.apk",
-  "notes": "调整手机提醒：历史记录继续补齐，过时消息不再逐条弹出；实时新提醒使用独立通道。改进点通知打开原消息、已有内容读取和失败重试，并修正更新下载后的安装状态判断。保留现有连接、规则和阅读位置。",
+  "version_code": 22,
+  "version_name": "0.3.16",
+  "size": 353819,
+  "sha256": "7628049589e8b8634f6e4143d3cf49e03a16e35de3c8f65ff798b53d51353899",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.16/Collector-Android-0.3.16.apk",
+  "notes": "0.3.16：离线后按最近7天（可选30天）直接补齐已选频道，包含隐藏频道；正文同时下载8个包，给新通知和正在打开的页面保留通道。先显示本地保存的聊天，再补齐正文、真实头像、附件预览与原有视频封面，分项显示进度。复用连接和未变化的图片，断线续取缺失包，保留配对、规则和阅读位置。包含0.3.15的通知补齐与通知原消息打开改进。",
   "min_android_api": 26
 }
