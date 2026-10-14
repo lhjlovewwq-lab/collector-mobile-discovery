@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 23,
-  "version_name": "0.3.17",
-  "size": 353819,
-  "sha256": "0092968b68bbb9d6f9ed0624029db20f1c21a69e146658fded5f38bf6e495b33",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.17/Collector-Android-0.3.17.apk",
-  "notes": "改进首次读取失败后的恢复，避免一直停在连接错误状态。\n配套电脑新版改进开机和打开 Collector 后的原手机通道恢复。\n保留已保存内容、配对、通知规则与阅读位置。",
+  "version_code": 24,
+  "version_name": "0.3.18",
+  "size": 357915,
+  "sha256": "c283fb3c089e2c4b4a66a143f099447e132f4486b57b997780ce419c84479dd3",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.18/Collector-Android-0.3.18.apk",
+  "notes": "改进更新检查的总时限、备用入口与退出后重试。\n减少慢连接拖延等待，过期请求不会覆盖新检查结果。\n保留现有连接、规则及已下载更新的校验与安装流程。",
   "min_android_api": 26
 }
