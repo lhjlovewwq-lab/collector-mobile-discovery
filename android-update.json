@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 26,
-  "version_name": "0.3.20",
+  "version_code": 27,
+  "version_name": "0.3.21",
   "size": 472984,
-  "sha256": "b5860c0eb9cde36210ab5904ccd30c7371784eeb3427159a752ffe683973de66",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.20/Collector-Android-0.3.20.apk",
-  "notes": "优化离线恢复后的近期消息同步，统一各页面的同步状态和更新时间。\n“最新”的聊天记录按新到旧排列，保留阅读位置。\n完善消息图片缓存、滚动加载和失败后的恢复。\n修正搜索、原消息和表单之间的返回位置，保留未提交草稿。\n完善通知规则保存失败提示，避免将过旧消息作为新提醒。\n升级沿用现有连接、通知规则、收藏和阅读记录。",
+  "sha256": "3f38e9fb9168910ce6d205f7580a4223a92b929c4aadfdd4b902201fc6ddc79f",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.21/Collector-Android-0.3.21.apk",
+  "notes": "# Collector Android 0.3.21\n\n- 修正频道最新消息的刷新与追赶逻辑，近期内容补齐期间继续检查新消息。\n- 同步时保留已保存内容与阅读位置，继续沿用已有图片缓存。\n- 与 Collector 电脑端 0.8.42 配套更新，保留原连接与通知规则。\n\n请覆盖安装并打开 Collector。安装包使用原有签名，无需卸载旧版。",
   "min_android_api": 26
 }
