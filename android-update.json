@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 27,
-  "version_name": "0.3.21",
-  "size": 472984,
-  "sha256": "3f38e9fb9168910ce6d205f7580a4223a92b929c4aadfdd4b902201fc6ddc79f",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.21/Collector-Android-0.3.21.apk",
-  "notes": "# Collector Android 0.3.21\n\n- 修正频道最新消息的刷新与追赶逻辑，近期内容补齐期间继续检查新消息。\n- 同步时保留已保存内容与阅读位置，继续沿用已有图片缓存。\n- 与 Collector 电脑端 0.8.42 配套更新，保留原连接与通知规则。\n\n请覆盖安装并打开 Collector。安装包使用原有签名，无需卸载旧版。",
+  "version_code": 30,
+  "version_name": "0.3.24",
+  "size": 485272,
+  "sha256": "de9d2468ea3f5b4c6bda2f464f919c2a2db3d3f7750e4d00f46fb5eed854599d",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.24/Collector-Android-0.3.24.apk",
+  "notes": "增加采集、电脑服务与手机阅读链路的诊断记录；保留已整合的通知定位与正文按需读取逻辑。实际手机行为验收另行确认。",
   "min_android_api": 26
 }
