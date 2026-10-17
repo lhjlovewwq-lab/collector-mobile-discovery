@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 31,
-  "version_name": "0.3.25",
+  "version_code": 32,
+  "version_name": "0.3.26",
   "size": 522136,
-  "sha256": "7bdd26d15ab87a528176e75ad7ce1401bb3126cecd92aaa6b4dc7fc9d079eef1",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.25/Collector-Android-0.3.25.apk",
-  "notes": "改进消息更新、频道目录刷新、通知定位与图片恢复；修正排序和同步进度显示，加入实时诊断支持。",
+  "sha256": "79ed7dc7e4fe6d911f93400ace85cfeaaa41a4030417efbaf7635596fd4fd9ac",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.26/Collector-Android-0.3.26.apk",
+  "notes": "改进本地计数兼容，升级后对满足条件的旧错误进行一次正常重验证，并补充必要的故障日志。",
   "min_android_api": 26
 }
