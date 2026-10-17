@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 30,
-  "version_name": "0.3.24",
-  "size": 485272,
-  "sha256": "de9d2468ea3f5b4c6bda2f464f919c2a2db3d3f7750e4d00f46fb5eed854599d",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.24/Collector-Android-0.3.24.apk",
-  "notes": "增加采集、电脑服务与手机阅读链路的诊断记录；保留已整合的通知定位与正文按需读取逻辑。实际手机行为验收另行确认。",
+  "version_code": 31,
+  "version_name": "0.3.25",
+  "size": 522136,
+  "sha256": "7bdd26d15ab87a528176e75ad7ce1401bb3126cecd92aaa6b4dc7fc9d079eef1",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.25/Collector-Android-0.3.25.apk",
+  "notes": "改进消息更新、频道目录刷新、通知定位与图片恢复；修正排序和同步进度显示，加入实时诊断支持。",
   "min_android_api": 26
 }
