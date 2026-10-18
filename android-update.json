@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 33,
-  "version_name": "0.3.27",
-  "size": 526232,
-  "sha256": "005c1ae8af45fd72d76655018f826f72800499c52c339708f3e4629189a043f1",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.27/Collector-Android-0.3.27.apk",
-  "notes": "改进大型本地历史清单的读取兼容与状态恢复，保留既有资料并补充必要的故障定位。",
+  "version_code": 45,
+  "version_name": "0.3.39",
+  "size": 587672,
+  "sha256": "01b7626fed54f9b7792d120263b2bb1f02bd7111cdff34642dd9c67714ecc799",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.39/Collector-Android-0.3.39.apk",
+  "notes": "Android 0.3.39（版本代码45）\n\n改进消息读取及设备状态显示，完善请求取消和有界失败诊断。本批实机正常读取、正文与图片显示及设备列表已通过。\n\n已配对用户可覆盖更新并保留现有连接与资料；全新安装仍需配置连接。本版不代表持续实时采集、全部媒体或一秒端到端延迟已全部验收。",
   "min_android_api": 26
 }
