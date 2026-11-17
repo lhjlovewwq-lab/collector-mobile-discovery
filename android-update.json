@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 204,
-  "version_name": "0.3.193",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.193/Collector-Android-0.3.193.apk",
-  "sha256": "ffc9b852470750c6c008e6bf82c91ba78f1d7220bdc374a37b13980ed2c3a2f3",
+  "version_code": 208,
+  "version_name": "0.3.197",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.197/Collector-Android-0.3.197.apk",
+  "sha256": "399254b4291129c0b35817155cd657a3bce60417cfea11a7fe764cab0012d3ec",
   "size": 2552304,
   "min_android_api": 26,
-  "notes": "修正夜雨提醒在系统静音时不响的问题。选择「使用闹钟音量」后，按闹钟音量播放一次短提示音，遵守系统勿扰。第一台三星手机已在系统静音下通过麦克风实测。\n\n已配对的 0.3.192 可覆盖更新，保留现有资料和连接。"
+  "notes": "修正指定频道通知规则的保存。手机实际保存后才提示成功，同步失败会继续使用上一次有效规则。已配对的 App 可覆盖更新，保留资料和连接。"
 }
