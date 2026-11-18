@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 209,
-  "version_name": "0.3.199",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.199/Collector-Android-0.3.199.apk",
-  "sha256": "24a167b3d0c0f88d14403e74a15f3386316bfe27f9013aa3cf2c85025bf97bb3",
-  "size": 2564592,
+  "version_code": 210,
+  "version_name": "0.3.200",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.200/Collector-Android-0.3.200.apk",
+  "sha256": "c5542db25ebf97fa7cc19c36505c1cba97ec7e1478e87dc75a29b2029fc5787e",
+  "size": 2605713,
   "min_android_api": 26,
-  "notes": "改进后台消息接收，将普通消息同步和通知提示分开。优化阅读、搜索、收藏和更新过程，修正部分引用跳转、表情及图片显示。已配对的 App 可覆盖更新，保留原有资料和连接。"
+  "notes": "修正消息表情显示。标准表情在正文、搜索、引用、转发和通知中共用离线表情数据。已配对的 App 可覆盖更新，保留原有资料和连接。"
 }
