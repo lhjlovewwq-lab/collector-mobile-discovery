@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 211,
-  "version_name": "0.3.201",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.201/Collector-Android-0.3.201.apk",
-  "sha256": "79a7050156a72e790ee3264bb70ffbb11f64075b80c7e691ef4b7cf74126b0b5",
-  "size": 2605713,
+  "version_code": 216,
+  "version_name": "0.3.206",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.206/Collector-Android-0.3.206.apk",
+  "sha256": "e2a4f41be6a1b6059017e97af17fb46f2e5c476b7d4897fd65ec82fc1e27ea95",
+  "size": 2609809,
   "min_android_api": 26,
-  "notes": "点通知打开消息时，优先显示手机已保存的前后文。返回重进频道或重试时，保留已保存的消息。没有可显示的缓存且读取失败时，会结束加载占位并提示重试。"
+  "notes": "包含近期的频道显示和「到最新」改进。后台接收服务在运行且手机有网络时维持收消息所需的心跳，停止接收后释放。"
 }
