@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "org.collector.mobile",
-  "version_code": 216,
-  "version_name": "0.3.206",
-  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.206/Collector-Android-0.3.206.apk",
-  "sha256": "e2a4f41be6a1b6059017e97af17fb46f2e5c476b7d4897fd65ec82fc1e27ea95",
+  "version_code": 218,
+  "version_name": "0.3.208",
+  "apk_url": "https://github.com/lhjlovewwq-lab/collector-mobile-discovery/releases/download/android-v0.3.208/Collector-Android-0.3.208.apk",
+  "sha256": "f32081b9b7079cd3e8123ed8453874494db9c332c4330b0c50a0dc67561c4a30",
   "size": 2609809,
   "min_android_api": 26,
-  "notes": "包含近期的频道显示和「到最新」改进。后台接收服务在运行且手机有网络时维持收消息所需的心跳，停止接收后释放。"
+  "notes": "改善手机网络恢复后的重连，以及图片和视频查看体验。"
 }
